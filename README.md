@@ -15,3 +15,6 @@ if (!firebase.apps.length) {
 }
 ```
 [source](https://stackoverflow.com/a/41005100/1614237)
+
+
+- [Multi-Tab Offline Support in Cloud Firestore](https://firebase.googleblog.com/2018/09/multi-tab-offline-support-in-cloud.html)
