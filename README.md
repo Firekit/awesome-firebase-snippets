@@ -44,3 +44,4 @@ if (!firebase.apps.length) {
 [source](https://github.com/firebase/friendlypix-web/blob/master/src/index.html)
 
 - [Multi-Tab Offline Support in Cloud Firestore](https://firebase.googleblog.com/2018/09/multi-tab-offline-support-in-cloud.html)
+- [How to improve performance of a Firebase web app](https://github.com/hsubox76/fireconf-demo)
